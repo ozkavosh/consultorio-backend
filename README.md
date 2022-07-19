@@ -1,6 +1,6 @@
 # Consultorio Backend
 
-Se trata de un backend que va a ir cambiando bastante ya que es utilizado para realizar pruebas en general. 
+Se trata de una API Rest que va a ir cambiando bastante ya que es utilizado para realizar pruebas en general. 
 En un principio será consumido por [Consultorio React](github.com/ozkavosh/consultorio-react), pero esta construido de forma genérica para ser incluso compartido
 con otros proyectos y no necesariamente seguir un esquema o estructura de consultorio.
 
