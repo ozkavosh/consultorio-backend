@@ -71,3 +71,14 @@ Para realizar una petición a un endpoint de almacenamiento se debera incluir el
   - ![](https://img.shields.io/badge/delete-%2Fapi%2Fdata%2F:id-red)
     - Descripcion: Permite eliminar un objeto especificado por su id en el parametro de la url.
     - Respuesta: JSON { success }
+    
+  ## Herramientas utilizadas
+  
+  - NodeJS
+    - FS Module
+  - Express
+  - JSONWebToken
+  
+  ## Autor
+  
+  - [Augusto Silva](github.com/ozkavosh)
