@@ -72,13 +72,13 @@ Para realizar una petición a un endpoint de almacenamiento se debera incluir el
     - Descripcion: Permite eliminar un objeto especificado por su id en el parametro de la url.
     - Respuesta: JSON { success }
     
-  ## Herramientas utilizadas
+## Herramientas utilizadas
   
-  - NodeJS
-    - FS Module
-  - Express
-  - JSONWebToken
+ - NodeJS
+   - FS Module
+ - Express
+ - JSONWebToken
   
-  ## Autor
+## Autor
   
-  - [Augusto Silva](github.com/ozkavosh)
+ - [Augusto Silva](github.com/ozkavosh)
